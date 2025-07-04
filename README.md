@@ -10,7 +10,7 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=renatoreis1985.github.io&theme=dark)](https:github.com/renatoreis1985/renatoreis1985/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=renatoreis1985.github.io&theme=dark)](https:github.com/renatoreis1985/github-readme-stats)
 
 ### Linguagens utilizadas
 
