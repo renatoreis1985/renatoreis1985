@@ -10,7 +10,8 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=exercicio_modulo_38.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=exercicio_modulo_38.github.io&theme=dark)](https://github.com/renatoreis1985/exercicio_modulo_38)
+
 
 
 ### Linguagens utilizadas
