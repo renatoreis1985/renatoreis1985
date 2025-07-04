@@ -16,6 +16,7 @@
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/exercicio_modulo_38)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/zelda_primeiro-site)
 
 ### Contatos
 
