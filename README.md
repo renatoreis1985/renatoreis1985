@@ -10,7 +10,7 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=projeto_final.github.io&theme=dark)](https://github.com/renatoreis1985/renatoreis1985)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=projeto_final.github.io&theme=dark)](https://github.com/renatoreis1985/primeirosite_zelda)
 
 
 ### Linguagens utilizadas
