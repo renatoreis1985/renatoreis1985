@@ -6,7 +6,7 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatoreis1985&show_icons=true&theme=dark)](https://github.com/renatoreis1985/renatoreis1985)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatoreis1985&show_icons=true&theme=dark)](https://github.com/renatoreis1985/exercicio_modulo_38)
 
 ### Projetos
 
@@ -14,7 +14,7 @@
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/renatoreis1985)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/exercicio_modulo_38)
 
 ### Contatos
 
