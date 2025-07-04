@@ -11,6 +11,7 @@
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=exercicio_modulo_38&theme=dark)](https://github.com/renatoreis1985/exercicio_modulo_38)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=zelda_primeiro-site&theme=dark)](https://github.com/renatoreis1985/zelda_primeiro-site)
 
 ### Linguagens utilizadas
 
