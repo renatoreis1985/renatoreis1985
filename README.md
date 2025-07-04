@@ -13,7 +13,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=exercicio_modulo_38.github.io&theme=dark)](https://github.com/renatoreis1985/exercicio_modulo_38)
 
 
-
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/renatoreis1985)
