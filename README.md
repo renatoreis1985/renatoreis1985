@@ -10,7 +10,7 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=exercicio_modulo_38.github.io&theme=dark)](https://github.com/renatoreis1985/exercicio_modulo_38)
+[![Readme Card](https://exercicio-modulo-38.vercel.app/api/pin/?username=renatoreis1985&repo=exercicio_modulo_38.github.io&theme=dark)](https://github.com/renatoreis1985/exercicio_modulo_38)
 
 ### Linguagens utilizadas
 
