@@ -49,6 +49,7 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1f425f?style=for-the-badge&logo=python&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -64,6 +65,7 @@
 - **Postman / Insomnia**: Testes de APIs (backends).
 - **Linux**: Ambiente de desenvolvimento e deploy.
 - **Docker**: Containerização de aplicações.
+- - **PythonAnywhere**: Plataforma online para hospedar e executar aplicações Python.
 - **Heroku**: Plataforma de deploy em nuvem.
 - **Figma**: Protótipos e design de interfaces.
 
