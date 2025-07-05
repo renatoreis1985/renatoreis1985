@@ -63,7 +63,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=sorteador_grunt&theme=dark)](https://github.com/renatoreis1985/sorteador_grunt)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=projeto_3&theme=dark)](https://github.com/renatoreis1985/projeto_3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=renatoreis1985/eplay&theme=dark)](https://github.com/renatoreis1985/eplay)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=renatoreis1985/jquery-galeria-fotos&theme=dark)](https://github.com/renatoreis1985/jquery-galeria-fotos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=jquery-galeria-fotos&theme=dark)](https://github.com/renatoreis1985/jquery-galeria-fotos)
 
 ### Linguagens utilizadas
 
