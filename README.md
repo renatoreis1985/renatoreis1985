@@ -60,6 +60,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=exercicio_modulo_22&theme=dark)](https://github.com/renatoreis1985/exercicio_modulo_22)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=exercicio_modulo_27&theme=dark)](https://github.com/renatoreis1985/exercicio_modulo_27)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=exercicio_final&theme=dark)](https://github.com/renatoreis1985/exercicio_final)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=bookstore&theme=dark)](https://github.com/renatoreis1985/bookstore)
 
 
 ### Linguagens utilizadas
@@ -71,6 +72,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/exercicio_modulo_22)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/exercicio_modulo_27)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/exercicio_final)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/bookstore)
 
 
 
