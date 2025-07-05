@@ -20,6 +20,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=contac-list&theme=dark)](https://github.com/renatoreis1985/contac-list)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=projeto_calculadora_medias&theme=dark)](https://github.com/renatoreis1985/projeto_calculadora_medias)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=exercicio_modulo_22&theme=dark)](https://github.com/renatoreis1985/exercicio_modulo_22)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=exercicio_modulo_27&theme=dark)](https://github.com/renatoreis1985/exercicio_modulo_27)
 
 ### Linguagens utilizadas
 
@@ -28,6 +29,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/contac-list)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/projeto_calculadora_medias)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/exercicio_modulo_22)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/exercicio_modulo_27)
 
 ### Contatos
 
