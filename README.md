@@ -36,24 +36,36 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### ℹ️ Descrição das Ferramentas
 
-- **HTML5**: Linguagem de marcação usada para estruturar o conteúdo de páginas web.
-- **CSS3**: Linguagem de estilo usada para definir o layout, cores, fontes e responsividade.
-- **JavaScript**: Linguagem de programação utilizada para tornar as páginas web interativas e dinâmicas.
-- **Python**: Linguagem de programação versátil, usada para backend, automações, análise de dados e muito mais.
-- **Django**: Framework web de alto nível para Python, que facilita o desenvolvimento rápido e seguro de aplicações.
-- **Bootstrap**: Framework CSS que permite criar layouts modernos e responsivos com rapidez.
-- **Git**: Sistema de controle de versões que permite gerenciar o histórico do código-fonte de forma eficiente.
-- **GitHub**: Plataforma para hospedar projetos com Git, facilitar a colaboração e exibir seu portfólio.
-- **VS Code**: Editor de código-fonte leve e poderoso, com suporte a extensões para diversas linguagens.
+- **HTML5 / CSS3 / JavaScript**: Criação da interface visual e interações com o usuário.
+- **Bootstrap**: Framework para criar layouts responsivos com rapidez.
+- **Python**: Linguagem principal usada no backend.
+- **Django**: Framework para construção de aplicações web completas com Python.
+- **SQLite / MySQL / PostgreSQL**: Bancos de dados usados para armazenar informações.
+- **Git / GitHub**: Controle de versão e hospedagem de código.
+- **VS Code**: Editor de código com suporte a múltiplas linguagens.
+- **Postman / Insomnia**: Testes de APIs (backends).
+- **Linux**: Ambiente de desenvolvimento e deploy.
+- **Docker**: Containerização de aplicações.
+- **Heroku**: Plataforma de deploy em nuvem.
+- **Figma**: Protótipos e design de interfaces.
 
 ### Contatos
 
