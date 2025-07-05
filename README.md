@@ -46,7 +46,6 @@
 - **Heroku**: Plataforma de deploy em nuvem.
 - **Figma**: Protótipos e design de interfaces.
 
-
 ### Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatoreis1985&show_icons=true&theme=dark)](https://github.com/renatoreis1985/exercicio_modulo_38)
@@ -61,7 +60,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=exercicio_modulo_27&theme=dark)](https://github.com/renatoreis1985/exercicio_modulo_27)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=exercicio_final&theme=dark)](https://github.com/renatoreis1985/exercicio_final)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=bookstore&theme=dark)](https://github.com/renatoreis1985/bookstore)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=sorteador_grunt&theme=dark)](https://github.com/renatoreis1985/sorteador_grunt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=projeto_3&theme=dark)](https://github.com/renatoreis1985/projeto_3)
 
 ### Linguagens utilizadas
 
@@ -73,8 +73,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/exercicio_modulo_27)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/exercicio_final)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/bookstore)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/sorteador_grunt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/projeto_3)
 
 ### Contatos
 
