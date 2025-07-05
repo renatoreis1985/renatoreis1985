@@ -17,8 +17,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=exercicio_modulo_38&theme=dark)](https://github.com/renatoreis1985/exercicio_modulo_38)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=zelda_primeiro-site&theme=dark)](https://github.com/renatoreis1985/zelda_primeiro-site)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=zelda_primeiro-site&theme=dark)](https://github.com/renatoreis1985/contac-list)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=zelda_primeiro-site&theme=dark)](https://github.com/renatoreis1985/projeto_calculadora_medias)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=contac-list&theme=dark)](https://github.com/renatoreis1985/contac-list)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=projeto_calculadora_medias&theme=dark)](https://github.com/renatoreis1985/projeto_calculadora_medias)
 
 ### Linguagens utilizadas
 
