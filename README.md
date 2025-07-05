@@ -1,7 +1,12 @@
 ### Olá 👋
 
 ###### Sobre o Renato
-7 anos de experiência no desenvolvimento de projetos com o uso de diversas tecnologias, para desenvolvimento mobile, web, automações e outros.
+
+🎓 Desenvolvedor Full Stack Python recém-formado pela EBAC (Escola Britânica de Artes Criativas & Tecnologia), com paixão por transformar ideias em soluções digitais. Tenho experiência prática em projetos que envolvem front-end e back-end, com foco em desenvolvimento web utilizando tecnologias como Python, Django, HTML, CSS, JavaScript e Bootstrap.
+
+💡 Estou sempre em busca de aprendizado contínuo e desafios que me permitam evoluir como profissional e entregar valor através da tecnologia. Acredito no poder da colaboração, da escrita de código limpo e da criação de produtos que realmente fazem a diferença.
+
+🚀 Este portfólio reúne alguns dos meus projetos mais recentes — sinta-se à vontade para explorar e acompanhar minha jornada!.
 
 
 ### Detalhes
