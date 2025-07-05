@@ -62,6 +62,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=bookstore&theme=dark)](https://github.com/renatoreis1985/bookstore)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=sorteador_grunt&theme=dark)](https://github.com/renatoreis1985/sorteador_grunt)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=projeto_3&theme=dark)](https://github.com/renatoreis1985/projeto_3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=renatoreis1985/eplay&theme=dark)](https://github.com/renatoreis1985/eplay)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoreis1985&repo=renatoreis1985/jquery-galeria-fotos&theme=dark)](https://github.com/renatoreis1985/jquery-galeria-fotos)
 
 ### Linguagens utilizadas
 
@@ -75,6 +77,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/bookstore)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/sorteador_grunt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/projeto_3)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/eplay)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoreis1985&layout=compact)](https://github.com/renatoreis1985/jquery-galeria-fotos)
 
 ### Contatos
 
