@@ -65,7 +65,7 @@
 - **Postman / Insomnia**: Testes de APIs (backends).
 - **Linux**: Ambiente de desenvolvimento e deploy.
 - **Docker**: Containerização de aplicações.
-- - **PythonAnywhere**: Plataforma online para hospedar e executar aplicações Python.
+- **PythonAnywhere**: Plataforma online para hospedar e executar aplicações Python.
 - **Heroku**: Plataforma de deploy em nuvem.
 - **Figma**: Protótipos e design de interfaces.
 
